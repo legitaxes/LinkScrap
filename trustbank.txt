@@ -1,0 +1,1464 @@
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Caltex Banner Oct promo" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5ZcAdgI4owvMZnAtr0Bqgd/056d6d9cf0e3b22904aae085bca6c94e/Caltex_1514100541-TRUSTx_Link-TrustApp_1500x750px_FA.jpg?w=584"/>
+  <img alt="Caltex Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/a8ofIXAkWQtyqs9zB2gNX/5be040637de71b0ee1b3556d8bfe2c60/Caltex_logo_014B60_W.png?w=100" style="background-color: rgb(1, 75, 96);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Caltex
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to 22.78% fuel savings
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="VIU Oct banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1Wv9IuUAP9mS3vu2sPFwG7/98dc32b6a222d31b65366ab01ab57553/Campaign_Page_Trust_OCT_1500x750.jpg?w=584"/>
+  <img alt="Viu Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7qosAD5cKCeVVzjJT6GiWo/a0644d0f87fdca5204d915f55aef3a55/Viu_logo_FFBF00_W.png?w=100" style="background-color: rgb(227, 28, 121);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Viu
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to 50% off Viu Premium
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Kopitiam Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6YytRtuXbiSIojIbhuhdSx/739c7faa00b3f4ed6e3397e663589876/Kopitiam_banner.png?w=584"/>
+  <img alt="Kopitiam Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4urQ0qoEoY4I2l7er38t3M/cb979b08d4519569a523f75630b32a11/Kopitiam_logo_EB2750_W__1_.png?w=100" style="background-color: rgb(235, 39, 80);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Kopitiam
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Free Hot Kopi/Teh
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Starbucks Dec banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1MH4qv15EDtz25ja4leY27/bbaa09a9ee3501b16ad4781be98d1172/Starbucks.png?w=584"/>
+  <img alt="Starbucks Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6EvKHXCarhGWrFRfomZeEz/b33f8af8592420651594e51754e08972/807402_SB_logo_Sq_120X120.png?w=100" style="background-color: rgb(215, 232, 226);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Starbucks
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Get S$2 off at Starbucks
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Burger King Nov banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2MUL83aoIuNfhZxMNlb88W/00d3ff05a861584eb019c9763c5fc6a2/BK_Trustbank_TrustApp_1500x750__1_.jpg?w=584"/>
+  <img alt="Burger King Logo 2" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/sJwLBjrwDjf4aOJMfe0q4/65cc5791f209523c13f8cabe35acc399/BurgerKing_logo_F5EBDC_B__1_.png?w=100" style="background-color: rgb(245, 235, 220);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Burger King
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 OFF
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="GoJek Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/48zgG4DOrZmGXPWNyNqpCa/3473fe826bb91cdf72d952fd217699b9/Gojek_banner__1_.png?w=584"/>
+  <img alt="Gojek" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4bcWiM9qoj7vuLDJgijEeL/796f7e09fdab5b2e1f6300e16722906a/GoJek_F9F9F9_B.png?w=100" style="background-color: rgb(235, 235, 235);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Gojek
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off a Gojek ride
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Foodpanda Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3zFllVJLoJi33wwSyg5NEq/4a055023a3eb1281afbe4c1cea7f3d76/Food_1_app.png?w=584"/>
+  <img alt="foodpanda new logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4D0p18RWQk3KZVcs0MIHeY/376074ada5d97284461fd64fd2ade996/foodpanda-app-icon-RGB_edited.png?w=100" style="background-color: rgb(255, 43, 133);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  foodpanda
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off foodpanda delivery
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Fully Redeemed Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1zf9rlmEvjWs7ZvvOnMyQi/b9ee70def0fd40e5fa9b44a5286c2b1e/soldout_banner-6a1384ba-c346-43aa-8076-64641e8418a4.jpg?w=584"/>
+  <img alt="foodpanda new logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4D0p18RWQk3KZVcs0MIHeY/376074ada5d97284461fd64fd2ade996/foodpanda-app-icon-RGB_edited.png?w=100" style="background-color: rgb(255, 43, 133);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  foodpanda
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off foodpanda delivery
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Gojek airport promo" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4sCgJJtzhqNDfZhrzZWNqQ/74eed06466fc3c15aa85bd0c4a38677e/gojek_airport_promo.jpg?w=584"/>
+  <img alt="Gojek" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4bcWiM9qoj7vuLDJgijEeL/796f7e09fdab5b2e1f6300e16722906a/GoJek_F9F9F9_B.png?w=100" style="background-color: rgb(235, 235, 235);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Gojek
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off your ride to the airport
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="AirAsia Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2dVbBIfjeiIlIppLPZ2Aum/fb062e5d534b5c8aa36a5c5d6b3810e3/1500x750__1_.png?w=584"/>
+  <img alt="AirAsia Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/DztPfTJaB7AfezujfAhzf/a175f91df39b099943194a83f7b39aba/AirAsia_logo_F9F9F9_B.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  AirAsia
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $20 OFF your next Beach Holiday Quickie
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="3 Mins Coffee banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/41brVjxeGIzvKcYpNO1soS/92fc8ac1d9166672a4132d8bcde97b52/Campaign_Image.jpeg?w=584"/>
+  <img alt="3 Mins Coffee logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2FeWIPODvBcbFtBtK80vNc/a03d909088378f6830ae8c8d0c52df69/3_Mins_Coffee_-_Logo_White.png?w=100" style="background-color: rgb(120, 129, 48);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  3 Mins Coffee
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$3 Return Voucher
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Agoda May Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2fkDTpguAsPLXmA7z1d1r/59376d395e5e1a3d012bf0d7766dd2e0/joss-woodhead-3wFRlwS91yk-unsplash__1_.jpg?w=584"/>
+  <img alt="Agoda logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3fK6UL8n18kn2aVMVIyefd/304d0d9b2b04c71e186f867a126aea6e/Agoda_color_F8F8F8_B.png?w=100" style="background-color: rgb(248, 248, 248);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Agoda
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  7% off Agoda
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Absolute cycle banner image 2 " class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2KAuoQ5SuChzLxIVGAxe5N/a8d4c64755796a92a4c8fb9dc56b26f8/_5_off__1_.jpg?w=584"/>
+  <img alt="Absolute Cycle logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/42T7QTOPSoqpE9Tt2wD7nl/138c3e22f583c2468aef8c2f1c16c18a/AbsoluteCycle_logo_EBEBEB_B.png?w=100" style="background-color: rgb(235, 235, 235);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Absolute Boutique Fitness SG
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Take $5 off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Absolute Cycle Banner Image 1 " class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3NYZgdlsnJZE3YJsGorbHI/a982d91c290d4d988106bc63d0772cef/Free_drop_in.jpg?w=584"/>
+  <img alt="Absolute Cycle logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/42T7QTOPSoqpE9Tt2wD7nl/138c3e22f583c2468aef8c2f1c16c18a/AbsoluteCycle_logo_EBEBEB_B.png?w=100" style="background-color: rgb(235, 235, 235);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Absolute Boutique Fitness SG
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1X Free Absolute Drop-In
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Asics Sep Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6rOGrjplktxvxADDpaXkIJ/5b78842c2ef50f0bae29b88446a768c7/Sep_banner.jfif?w=584"/>
+  <img alt="ASICS logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/30PKj77y95eFeijTS90Xin/6c4f32d5df02eb7cac1f5df4f4c2eebc/Asics_logo_F1F6FB_B.png?w=100" style="background-color: rgb(241, 235, 156);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  ASICS
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Enjoy 20% off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Ayam Taliwang Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5o14Hv7Ssr5YmjyvpjHk8N/157f8d2ee534b5eadcce4cc03ede2e4e/Image_1__1500x750_-01-01.jpg?w=584"/>
+  <img alt="Ayam Taliwang" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/59fDd16BEWRyceZuRbqtai/ef0cd476ac972b04d5811bcc6ca673c4/AyamTaliwang_logo_F8F4FC_B.png?w=100" style="background-color: rgb(236, 28, 36);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Ayam Taliwang
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Free Chicken Wing (1 pc) and Fish Fillet (1 pc)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="ZALORA July" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2zeGHwlzh0yL0jgShYHZL3/ed746151d15e9888e7c61d86cfe7609f/Trust_Yearlong_Offer_KV__1500x750px_.jpg?w=584"/>
+  <img alt="Zalora logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1j9VJM0Wv8WG5OcBl7RlRI/8b214f9f5d2652362570b2cfb32e1afb/Zalora_logo_000000_W.png?w=100" style="background-color: rgb(0, 0, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  ZALORA
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% + 5% cashback
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Andaz Singapore Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7MNmTwspkTSWL9nO4dwjjL/c28cfcf583babdb58c70ea76bd1ceadf/86xxx-eDM__DEC__6_images_1500_x_700px2.jpg?w=584"/>
+  <img alt="Andaz Singapore logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4j4jQxya8YeQTeJK7dKpjS/11112c8a10fb8bd24fa544bab1761fba/Andaz_Singapore_L001a-hrz-color-RGB.PNG?w=100" style="background-color: rgb(253, 247, 247);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Andaz Singapore
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off Andaz Singapore
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Burpple Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/69nZ0bEJPSJZNDA7xgiBpI/4a7d753167fbdeb58e89f75da5034e49/banner_image__1_.png?w=584"/>
+  <img alt="Burpple logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1go8rgV0BTNXMF0ZUDkB33/11bf09e3e333945dd0b59320ec971fe2/burpple_logo.png?w=100" style="background-color: rgb(0, 34, 132);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Burpple
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 month free trial + $25 off annual subscription
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Best Denki Dec Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6GBtoDvHWeb4gVHFx68SlZ/ad8a38cb6a0ff17871ee63087aa1f434/trust-bank_dec_1500-x-700-b7a00998-7ad0-4826-9b35-c30fcdfac42d-bbc858a2-f8b1-4137-9fee-6dadb8a7370b.jpg?w=584"/>
+  <img alt="Best Denki logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1VsSvXOzTPQwToSNOuuQou/e9f81f62a156f19b8d2a84358320178a/Best_Logo-01.jpg?w=100" style="background-color: rgb(255, 255, 255);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Best Denki
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Year End Special: Up to 14% off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="cdg airport" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2fcsnLqYmGUILC1aAB6STP/b615554f1b980533f303563095fc6c00/CDG_Airport_promo.jpg?w=584"/>
+  <img alt="Comfort Delgro logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3KeuPwKpXC1jfiPlr17bIc/c33a78f2e32b7b25a5123b1829a27f86/Zig_logo_0142AF_W.png?w=100" style="background-color: rgb(1, 66, 175);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  CDG Zig
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off your ride to Airport
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Carlton Hotel Buffet" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6eMlZ1J2bnx3pfKiLoVza7/27914511ab67bbb90c816420822c6df9/20191009-CarltonChristmas23458__1_.jpg?w=584"/>
+  <img alt="Carlton Hotel Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/66l0hNXLnQPWvZGPi10Rao/59aacd9a8ddec51c8a3d382c4e01948e/Carlton_Logo_white.png?w=100" style="background-color: rgb(56, 42, 79);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Carlton Hotel Singapore
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Carlton Hotel Festive Dining Offers
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Fully Redeemed Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1zf9rlmEvjWs7ZvvOnMyQi/b9ee70def0fd40e5fa9b44a5286c2b1e/soldout_banner-6a1384ba-c346-43aa-8076-64641e8418a4.jpg?w=584"/>
+  <img alt="Comfort Delgro logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3KeuPwKpXC1jfiPlr17bIc/c33a78f2e32b7b25a5123b1829a27f86/Zig_logo_0142AF_W.png?w=100" style="background-color: rgb(1, 66, 175);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  CDG Zig
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$4 off your 3rd CDG ride
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="ChaTraMue banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1rdSwuozhIrykJAlzXqj8t/af4f75003a924f6fcf39573a059c798d/Format-1__1_.jpg?w=584"/>
+  <img alt="Cha Tra Mue logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6vkzRTMsiiDkYJesamw6Dh/2676061907b93fed677ae8c5d180062e/ChaTraMue_logo_FDF7F7_B.png?w=100" style="background-color: rgb(255, 241, 198);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  ChaTraMue
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 Free Thai/Green Milk Tea (worth S$5.20)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Crave Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/28iVO5bH1CGtPByoMqCcve/21b08784da4a405a7f2f6ead5957e064/Campaign-image-1500x750px.jpg?w=584"/>
+  <img alt="Crave Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/22fpy0jAk0mceqskhaA3jg/2b227db775798c47dc3bbd8a7da0594d/crave-for-more-logo_v2.png?w=100" style="background-color: rgb(0, 152, 69);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Crave
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 Free Chicken Wing Nasi Lemak (U.P. S$6.80)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Clan 7 Sep'23 Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4EeHL2lV3YMUs8Q1qFvxiv/69b3fd551c5db0aeed86ea393ad9f0fe/Banner-_Sep_2023.jfif?w=584"/>
+  <img alt="Clan7 Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/VeR93kD1pSyYY4XCwX15H/b31688437b3a333299fe842e0815ba87/Clan7_logo_FFEECA_B.png?w=100" style="background-color: rgb(255, 238, 202);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Clan 7®
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% off at Clan 7®
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Collins Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/77Q29yAzK1UFG3QAtim5F5/26797cc09d0c9504c7f1cb173ae5c640/Collins_banner.png?w=584"/>
+  <img alt="Collins Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7KrDhtjlmxn4qn53q5epIc/ef627273a0968dd01fb50b9bba810eb4/Collins_logo_241E20_W.png?w=100" style="background-color: rgb(36, 30, 32);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  COLLIN'S®
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  20% off COLLIN'S® online orders
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Coconut Queen Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2VAGZzQdKlKqbDBTeFSGNt/1ac52d8f4b3614b3da515f379b262adb/App_Marketing_Assets_Deal_Image_App-Web.jpg?w=584"/>
+  <img alt="Coconut Queen logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5y6TAWU2yH9Dq1RQhNm3Rl/4ba9af9f6c4ef518c8956db75a429e8d/CoconutQueen_logo_E8EDAD_B.png?w=100" style="background-color: rgb(232, 237, 173);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Coconut Queen
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  5% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Collins Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/77Q29yAzK1UFG3QAtim5F5/26797cc09d0c9504c7f1cb173ae5c640/Collins_banner.png?w=584"/>
+  <img alt="Collins Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7KrDhtjlmxn4qn53q5epIc/ef627273a0968dd01fb50b9bba810eb4/Collins_logo_241E20_W.png?w=100" style="background-color: rgb(36, 30, 32);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  COLLIN’S®
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off COLLIN’S®
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Deliveroo banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4krQNhHgZV2pK5lL3tcfRj/142d7541b37f82be9ff4e9b959e4c3ba/Generic_Image__1500x750__-_17042023.png?w=584"/>
+  <img alt="Deliveroo logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/22yQPeYnT3SYl0ftF0ah9P/66ffdb34d26af8ff8e22da122a2e3f9a/deliveroo_logo_new_00C1B2.png?w=100" style="background-color: rgb(0, 193, 178);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Deliveroo
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $5 off your order
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Domino's Pizza Nov" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2jNrOy2SGoBoDr1AzWtCyf/52945b4978b27224007befd5894b60a9/Nov_banner.jpg?w=584"/>
+  <img alt="Domino's Pizza logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3Ue704KNgNxmtg0aoqNlY7/b0ec7f48748c080f19efa1a605b36bf4/Domino_logo_0078AE_W.png?w=100" style="background-color: rgb(0, 120, 174);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Domino's Pizza
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 x Large Pizza at $8 (UP $33.90) on next purchase
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Fully Redeemed Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5yLDpcCBkzVS9zblIWvjeS/e18ac8bafab0b843661704e18f8e2272/Soldout_banner.jpg?w=584"/>
+  <img alt="Deliveroo logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/22yQPeYnT3SYl0ftF0ah9P/66ffdb34d26af8ff8e22da122a2e3f9a/deliveroo_logo_new_00C1B2.png?w=100" style="background-color: rgb(0, 193, 178);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Deliveroo
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $5 off your order
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="DHL Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7vRllWev3rThwhhFn3H4Xe/8f21e0cf5bead043f2e259ac7d6c336e/dhl_group_rolxtuylgm_contentdamdpdhl-corporatedhlmedia-libraryglobal-shooting-201919_05_DHL_22876_small-fotor-20231023135121.jpg?w=584"/>
+  <img alt="DHL Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6NkRFLNcQJJJRpyR21DIVU/b76531408bf460d77652f7c060d717e4/DHL_logo_B.png?w=100" style="background-color: rgb(255, 204, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  DHL Express
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  30% off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Deliveroo $8 off May Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5dsNGOPlYXUjhykSspYWeF/8934f1744ee5b19adcfecf8bff34851c/Generic_Image__1500x750___2_.png?w=584"/>
+  <img alt="Deliveroo logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/22yQPeYnT3SYl0ftF0ah9P/66ffdb34d26af8ff8e22da122a2e3f9a/deliveroo_logo_new_00C1B2.png?w=100" style="background-color: rgb(0, 204, 188);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Deliveroo
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  2 x $8 off + free delivery
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Doctor Anywhere Marketplace" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3r0FlqvcXAUKRHRkAlCTCT/3c3d567a8f7764e1b4b2e32b5c5cc23c/marketplace_banner.jpg?w=584"/>
+  <img alt="Doctor Anywhere Marketplace logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3SbX8F8LNW2mM1OObC742A/da6a7ec5d9cfa56629ccaf7884fdf78d/DA_MP_Vertical_200x200.png?w=100" style="background-color: rgb(242, 242, 242);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  DA Marketplace
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $5 off with min spend $25
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Doctor Anywhere health screening banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6PtNcCuUfYRj18QWfN5Na8/3d45cfb69acadc1c6a893f616f8f32f6/HS_tile.jpg?w=584"/>
+  <img alt="Doctor Anywhere Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2mjI6GBIYzVITA6TDawkQK/3abf4615d585e4542900803eeeda3ec9/DoctorAnyWhere_logo_004B7A_W.png?w=100" style="background-color: rgb(0, 75, 122);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Doctor Anywhere
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Essential Health Screenings from $80
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Doctor Anywhere health screening banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6PtNcCuUfYRj18QWfN5Na8/3d45cfb69acadc1c6a893f616f8f32f6/HS_tile.jpg?w=584"/>
+  <img alt="Doctor Anywhere Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2mjI6GBIYzVITA6TDawkQK/3abf4615d585e4542900803eeeda3ec9/DoctorAnyWhere_logo_004B7A_W.png?w=100" style="background-color: rgb(0, 75, 122);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Doctor Anywhere
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Comprehensive Health Screenings from $178
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Doctor Anywhere Revised Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/MKsRyW1bYdfvZIBA728N0/4ced1226cbd96b63e4f1949f3c47d155/trust_1500_x_700.jpeg?w=584"/>
+  <img alt="Doctor Anywhere Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2mjI6GBIYzVITA6TDawkQK/3abf4615d585e4542900803eeeda3ec9/DoctorAnyWhere_logo_004B7A_W.png?w=100" style="background-color: rgb(0, 75, 122);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Doctor Anywhere
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Mental Wellness Consultation at $113.80 nett
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Doctor Anywhere Revised Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/MKsRyW1bYdfvZIBA728N0/4ced1226cbd96b63e4f1949f3c47d155/trust_1500_x_700.jpeg?w=584"/>
+  <img alt="Doctor Anywhere Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2mjI6GBIYzVITA6TDawkQK/3abf4615d585e4542900803eeeda3ec9/DoctorAnyWhere_logo_004B7A_W.png?w=100" style="background-color: rgb(0, 75, 122);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Doctor Anywhere
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Video Consultation at $16.60 with Doctor Anywhere app
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Easybook Ferry" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1Fw13Hv2QsNuSdl2JBFXva/9513d8f3c23cb7c467c281993039e311/trustferry.jpg?w=584"/>
+  <img alt="Easybook logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7Ix5Aj3PpNEC7hTLdohFDW/858c98db64f246ed21418d4e215e5e66/Logo.png?w=100" style="background-color: rgb(248, 244, 252);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Easybook
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  8% OFF Ferry Rides
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Easybook bus" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7BgHVm8vg7C9jcCDKnsSxf/f38b7e3e0b3db9b2d12912b61aa19fae/trustbus.jpg?w=584"/>
+  <img alt="Easybook logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7Ix5Aj3PpNEC7hTLdohFDW/858c98db64f246ed21418d4e215e5e66/Logo.png?w=100" style="background-color: rgb(248, 244, 252);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Easybook
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  8% OFF Bus Rides
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Elfuego" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1oju70W6qiTYLFMje85UhQ/5a5b48b24e1477f3db0fa4ff948dcd83/EF_Sharings_Group_Shot_1500_x_750.jpg?w=584"/>
+  <img alt="Elfuego" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2K3aFyBsPsLujB9zZt9s9D/96242974b79077b02f07f8037e9303f2/Elfuego_logo_FDF7F7_B.png?w=100" style="background-color: rgb(253, 247, 247);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Elfuego®
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off à la carte bill at Jewel outlet
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Efluego" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6QYlhgNhGAhdLieZanQiJm/adbe3e4e8ea0f467f2635cf7a7a8dade/EF_Appetisers_Group_Shot_1500_x_750.jpg?w=584"/>
+  <img alt="Elfuego" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2K3aFyBsPsLujB9zZt9s9D/96242974b79077b02f07f8037e9303f2/Elfuego_logo_FDF7F7_B.png?w=100" style="background-color: rgb(253, 247, 247);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Elfuego®
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  20% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="ESSO banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3ZfGRC1cVSY4Sa5QMcI9fr/e06b24ecef00a6decaedfbb25b0c9160/Esso_campaign_image_1500_x_750_png.png?w=584"/>
+  <img alt="ESSO logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2uqbAupd570unItKlgnVET/4b9115efda6eccad6adfaea0455758be/Esso_logo_F9F9F9_B.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  ESSO
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to 18% fuel savings
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Food Folks Tote Bag" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2zdTC8UMA2g52d9rgTrLZu/22d8b5e61242c9a2d3ab29e15d8eeabb/Tote_Bag_Deal_Image_1500Wx750H.jpg?w=584"/>
+  <img alt="Food Folks logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/zaQgDJR9Y7JSMaHEH7Pfz/586191da2b30aeb4e43c3b5beb73d562/Folkfood_logo__f15a5b_W.png?w=100" style="background-color: rgb(241, 90, 91);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Food Folks
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 Free Lau Pa Sa Tote Bag (U.P. S$8.90)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Food Folks mug banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7GioEFwYkRCTddP21jT21q/73adb2037176db77fd9d618f7762edd9/Heritage_Mug_Deal_Image_1500Wx750H.jpg?w=584"/>
+  <img alt="Food Folks logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/zaQgDJR9Y7JSMaHEH7Pfz/586191da2b30aeb4e43c3b5beb73d562/Folkfood_logo__f15a5b_W.png?w=100" style="background-color: rgb(241, 90, 91);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Food Folks
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$8 Lau Pa Sat Heritage Mug (U.P. S$14.90)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Flow image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1mRGZzCszKCHTynqLPKlTU/7127a3645f7839cfca53aa1ce129bc0f/FlowxTrustBank_Deal_or_Campaign_image1.png?w=584"/>
+  <img alt="Flow logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/oUXJxjxM6WNQm47LlHtrl/a0755255425b9d20968d8666f7107a71/Flow_logo_FFC000_B.png?w=100" style="background-color: rgb(255, 192, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Flow
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 OFF SG Daycation Booking
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Flower Advisor BAU banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5J8hjTMHlNSvL6Buq1MB3X/1788a8b6bdd6e58dc7afc751193f2b8d/Trust_Bank_YearLong-01.jpg?w=584"/>
+  <img alt="Flower Advisor logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4g1JwlvBW9MbGpvneGB2RX/b31738600983c9de8a3cea553ee6d332/FlowerAdvisor_logo_F0FBF7_B__1_.png?w=100" style="background-color: rgb(242, 242, 242);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Flower Advisor
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $15 off first purchase
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="foodpanda (new customer promo)" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5quY3uLE6dmCs86eiT3djW/70fff5450af550a9c4f654fd1c43c4ce/NC_Food_app.png?w=584"/>
+  <img alt="foodpanda new logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4D0p18RWQk3KZVcs0MIHeY/376074ada5d97284461fd64fd2ade996/foodpanda-app-icon-RGB_edited.png?w=100" style="background-color: rgb(255, 43, 133);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  foodpanda
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$10 off + free delivery
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Fleuriste Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4fxgFtddSMmT0GPICpxi9b/10fe546a50da343351c6328f766e823d/web_image.jpg?w=584"/>
+  <img alt="Fleuriste logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/nVIckkAqLm4FhjFeiBFBc/4bfaa0b0a7e6bace447edf174784424e/Fleuriste_logo_FFFFFF_B.png?w=100" style="background-color: rgb(255, 255, 255);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Fleuriste
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  12% off Fleuriste
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="grove oct banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3ukH1VdRPEKIigVMLmOnHt/5e785a2406634c4c7e57f4d1494081b4/Blue_Pea_Nasi_Lemak.jpg?w=584"/>
+  <img alt="Grove horizontal logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1rBRhQu46j4jowg8T1b056/46c9aa98bea3a1b969fc1b098560f0ef/Grove_logo_EBEBEB_B_horizontal.png?w=100" style="background-color: rgb(235, 235, 235);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Grove
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% off all regular priced items every Monday
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="GoJek Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/48zgG4DOrZmGXPWNyNqpCa/3473fe826bb91cdf72d952fd217699b9/Gojek_banner__1_.png?w=584"/>
+  <img alt="Gojek" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4bcWiM9qoj7vuLDJgijEeL/796f7e09fdab5b2e1f6300e16722906a/GoJek_F9F9F9_B.png?w=100" style="background-color: rgb(235, 235, 235);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Gojek
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $5 off your next Gojek ride
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Gelare Sep Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7xD9VI53tqkDSVwghs9VYg/cc5521b0c9b0649c0865cea9c2b086d3/Gelare_Campaign_image-_Sep_compressed.png?w=584"/>
+  <img alt="Gelare logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1zL3vrCoNctKO5EVlTR3rX/83962cf50a4d1e343c346da2c2dcbb5b/Logo-11.png?w=100" style="background-color: rgb(249, 243, 239);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Geláre
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off next bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="giga! banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2hcLdDtJoffA4EF4sadLEo/43c443cfa7b992b58e105350b14d1b6f/231208_TrustBank1500x750__1_.png?w=584"/>
+  <img alt="giga! logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/36SRpwqX8yJ8ggwZ26eI3r/d0bf4bbc55a54d89376e51730cc2ba62/giga-logo-ca33c356-3004-4ea5-9392-4f1512d6df55.png?w=100" style="background-color: rgb(139, 211, 220);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  giga!
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Enjoy 330GB/mth at S$20.19 only
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="GetGo Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4bDC2uzmvymUA0UFJ0Piyt/304f070aabac3c4f3b7e4f0a1a3fed5d/getgo-format1.jpg?w=584"/>
+  <img alt="GetGo logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7m73Ch0rcz52upfvO2sjBw/3d51ce14420c473c725a743c2c7cb842/getgo-white.png?w=100" style="background-color: rgb(1, 24, 81);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  GetGo
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$15 off first GetGo booking
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="GongCha Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3oC6jdnyLJV8wwQMkRhJW4/722c30d9ab4ab82184323045367b9fac/GongCha_Banner.png?w=584"/>
+  <img alt="GongCha Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1IKCLJzeIn0Q7QkmrRBpiF/e9b8a927c51434baa67265d02a5b09ef/GongCha_logo_f5f5f5.png?w=100" style="background-color: rgb(245, 245, 245);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Gong Cha
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  5% off Gong Cha
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Harvey Norman Aug Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2PrnrNZd1eLJjanwGIlKqi/2ccacc6a0d02940850effb82e579ff67/sep_banner.png?w=584"/>
+  <img alt="Harvey Norman logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5S16jfk0pXZypC7nrmnx2S/9ff3984e0cc97c6d7cdcc2b12a801031/HarveyNorman_logo_F5F5F5_B.png?w=100" style="background-color: rgb(245, 245, 245);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Harvey Norman
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Monthly Green Deals: Up to 44% off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Lenskart" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7AetyXmSauAodlAAAr0qzP/c1830765f21ad5fa5c55dceb4ee17ecd/Lenskart_Aug_banner.jfif?w=584"/>
+  <img alt="Lenskart Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2j6WCcjr5iXHRhCIPjMkeh/6f17bea7eced812488c48d0049176ef7/Lenskart_logo_F1F6FB_B.png?w=100" style="background-color: rgb(241, 246, 251);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Lenskart
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Buy 1 Get 1 Free
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Hopper 8%" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4xK4nVnwMBAP9B5Ddv93S4/78121f114c56f9f3b6b2b4339fafdb44/Hopper_8-_banner__1_.png?w=584"/>
+  <img alt="Hopper logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/XollfFuDWlKxE1PnV14EZ/5ac23ba71cc21e73ac987f126fc871b7/Hopper_logo_FA6866_W.png?w=100" style="background-color: rgb(250, 104, 102);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Hopper
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  8% off hotels worldwide
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Hopper banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/65IeeZhcMCSvjZ2rb6CthX/2896de1b525af014dba35451e107ed24/Hopper_15-_off_banner__1_.png?w=584"/>
+  <img alt="Hopper logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/XollfFuDWlKxE1PnV14EZ/5ac23ba71cc21e73ac987f126fc871b7/Hopper_logo_FA6866_W.png?w=100" style="background-color: rgb(250, 104, 102);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Hopper
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% off hotels worldwide
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Heavenly Wang banner " class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/16nCJDPZ4ZHeyaleeMzhjm/7eb2849ae881d8b5fbe4b40698e7a0bd/Heavenly_Wang_Campaign_Image.png?w=584"/>
+  <img alt="Heavenly Wang logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2CJZyJPKQo1v0BJiYjuSAL/015d26e3e44c8155fc964c1a6acd4f51/Wang_logo_FF7500_W.png?w=100" style="background-color: rgb(255, 117, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Heavenly Wang
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 Free drink at Heavenly Wang
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Hotel Fort Canning BAU Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6eTOrNbGybdD7yobouDAGy/83fc81159171587f1a6af4d633a88aa2/hotelfortcanning_banner-5c7180ea-7189-4d3f-8c41-d8d9ebbda250.jfif?w=584"/>
+  <img alt="Hotel Fort Canning logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3LV6iwP9pss760z3uG70ij/ccd1ec72b857e6dd5c5244c7d72304d4/HotelFortCanning_logo_F2F2F2_B.png?w=100" style="background-color: rgb(242, 242, 242);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Hotel Fort Canning
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 for 1 lunch at The Salon
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Heybo Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/1pnLloQrIeTzqk7IDN2AMU/13e37f74cc196c05009cdf3f3aeb4491/HEYBO_lifestyle_1500_x_750px.jpg?w=584"/>
+  <img alt="Heybo logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1anzYArqrMaKImGQMvN2Q2/323ebcca352c02c0082b190f42346cad/heybo.png?w=100" style="background-color: rgb(236, 129, 45);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Heybo
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Hei Sushi" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6Fc2Hzq8wbHZlKjPUzClMZ/7c1423cb9b5babe083a82c988f0cb092/Hei_Sushi.jpg?w=584"/>
+  <img alt="Hei Sushi" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/614JhW1DIXu4HYmB82ny9/59e48149953863cd00f4e96973604629/HeiSushi_logo_F2F8F6_B.png?w=100" style="background-color: rgb(242, 248, 246);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Hei Sushi
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income fitness banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7hlupt1UyT5JdHtiQP0XQz/9b6f7b799d0792aa031b9f4a4d060da1/Running-man-on-Threadmill-1500x750.jpg?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  PA Fitness Protect
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4kv0sEHgPBIwbE9WIggcLP/b762d3efa1e0f536a28edb3c7b87ec7e/AppWeb_1500x750.jpg?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to 45% off Travel Insurance
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4ASVr6SbJFwJhlTFvBZzEt/e0bb4d40c95d41b13c41f9a4329cdb6f/Home_Ultimate_Protect.png?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Home Ultimate Protect
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income Domestic Helper" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6a0ouzIOkUTKnLWqmXWDWQ/ee669ec52b23b10f8743482918e8c339/Domestic_Helper.jpg?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Domestic Helper Insurance
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income Drivo Car Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2JiVeVjl98ljXkRxtKYPY3/301f9b6ad047cef859f7725bb71a5e72/Car.jpg?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to 420,000 STAR$
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7j23aVc3IlsLiPkEJEg30m/d113bca7cafffdbf1c56955c20216d23/Happy_Tails_Pet_Insurance.png?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Happy Tails Pet Insurance
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="iQiyi banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2CgRRmEgkeAljuzzoQ0Xfc/cfda8571fda313a4e068ec7f47fe1ffa/653c9568-81a9-43f2-9648-66f64e15f77d.jpg?w=584"/>
+  <img alt="iQiyi logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2N6CCvXMHWPzOiVCSXju45/8cb893cfdf6eca1f3e29e06365b48ed6/iQIYI_logo__00DC5A_W.png?w=100" style="background-color: rgb(0, 220, 90);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  iQiyi
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  25% off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Enhanced Home Insurance" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/4frYRkEL4FFRnXuHXLJbQa/f2b962ecb1493d380ab893a7068a4375/Enhanced_Home_Insurance.png?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  30% off 3-year plan
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Income Motorcycle Promo" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2bD7p3o2QXiHz8suxTC4n5/8e616bc8ccddaeaa3bbbf353ad90efe9/Motorcycle.jpg?w=584"/>
+  <img alt="Income logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5E94n1iibv3d4kqpzdCXNx/6312077479f3cf414ccc41511f2d5fd8/INCOME_Logo_White_RGB.png?w=100" style="background-color: rgb(255, 118, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Income
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to 90,000 STAR$
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Kim Dec banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/uaEwk6cGHj9DHPxI3AI7H/c38cb87cff2df87265f86eae37b4470e/KD2311-10_1500x750mm_Mobile_Banner_-_Trust_Bank_2.jpg?w=584"/>
+  <img alt="Kim Guan Guan logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2d6UjfWe0ZA2IpGGqE577s/351f1f86d664ca9065b77d6d06aa78fe/LOGO-KD-Gold_Effect-01.png?w=100" style="background-color: rgb(11, 31, 65);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Kim's Duet
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% off total bill at Jewel outlet
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Kind kones nov banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/CFZXqbpuf57RR5fA32HjR/ca0f6c8fa8efa5b69a4be08440fa6e7f/Trust_x_Kind_Kones_Collaterals__1_.jpg?w=584"/>
+  <img alt="Kind Kones logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7yqnyK6tHJD9fgsWTR99TG/00870df974d2643f919ce98d77956606/1__1_.png?w=100" style="background-color: rgb(105, 134, 183);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Kind Kones
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$3 OFF
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Koi aug banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7vyBadSwDR086R2QzomcHX/0871d2aef97f836d8a658bc927bc7faf/Milk_tea_Aug_banner.jfif?w=584"/>
+  <img alt="Koi logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/60gJXjfSBDZ3KGRS3hQcVW/93ecc29eaa5563a5ff394c0ee669dea2/Koi_logo_C49358_W.png?w=100" style="background-color: rgb(196, 147, 88);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  KOI
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 Free Bubble Milk Tea (U.P. S$4.60)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Kith Cafe July" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7J1aos8FKextID37YObLbb/84957b0eaf8e213be9f40ccfd201cdb2/Kith_July_Banner.jfif?w=584"/>
+  <img alt="Kith Cafe logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/11FLLQ17tGwFbpTA8zJs3q/689ba331aa35c54943b2219ea70be173/kith_logo_200x200px.png?w=100" style="background-color: rgb(255, 233, 15);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Kith Cafe
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  FREE cake set on next visit
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Kim Guan Guan Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5PzImWrn2oUoNDCuMLtCzZ/422fe8fc043c9e53514e98ae2e23d37f/KimDuet_Banner__1_.jpg?w=584"/>
+  <img alt="Kim Guan Guan logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2d6UjfWe0ZA2IpGGqE577s/351f1f86d664ca9065b77d6d06aa78fe/LOGO-KD-Gold_Effect-01.png?w=100" style="background-color: rgb(11, 31, 65);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Kim's Duet
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% off Kim's Duet Local Steep Coffee &amp; Tea
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Livingmenu xmas banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2hT08TZQ4EX9iGoWigKzWg/356d6235e5c8998e3e5055effc252c04/TrustXmas__1_.jpg?w=584"/>
+  <img alt="Livingmenu logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6VdkxsjrPCyUCGwmOUPUTN/e7c0dc70001f053ee3214112b1b4224b/Livingmenu_logo_F0FBF7_B.png?w=100" style="background-color: rgb(226, 244, 215);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Livingmenu
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $30 off Christmas Catering Service
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="LPB $10 " class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5FChtbnNRPWuRThcON8eWZ/de2c5cc30edceabf5adc418f6a176751/LPB_Market-campaign_image-trust_bank-1500x750-1-XMas__1___1_.png?w=584"/>
+  <img alt="LPB logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1gQPOn7my5GLNeHsH2HTgK/377f1c4fd01e8465b90adbd8efd33a72/eae1df79-dcee-4dd2-8015-c60587b43ad1.png?w=100" style="background-color: rgb(238, 126, 5);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  LPB Market
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$10 off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="LPB $8 new" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3nDaMeg3XcvQHtvuETnxUT/acc7be8b1da73d9a632bae0540a45287/LPB_Market-campaign_image-trust_bank-1500x750-2-XMas.png?w=584"/>
+  <img alt="LPB logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1gQPOn7my5GLNeHsH2HTgK/377f1c4fd01e8465b90adbd8efd33a72/eae1df79-dcee-4dd2-8015-c60587b43ad1.png?w=100" style="background-color: rgb(238, 126, 5);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  LPB Market
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$8 off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="MFM Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2PjRwTFki1pIFoyCamrNJn/dd87a02220f217fb0d64c4392fc57017/MFM_Trust_App_1500_x_750.jpg?w=584"/>
+  <img alt="MFM logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4swHW2c2WyvH8rjNYZ9xlN/2a156c2704660dcbbc55c0d90d07f4ad/ManhattanFishMarket_logo_FF9F9F9_B.png?w=100" style="background-color: rgb(177, 13, 40);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Manhattan Fish Market
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off next bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Muikee banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/48K41nS4L3LB438S15o3Yz/f7419516ca0c9b4cf29d464e8f603b7d/Banner.jfif?w=584"/>
+  <img alt="Mui Kee logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5aGYFyOko2DGpp9BJksvEB/71c83bc02221a1571d18f53a1756d0a7/Muikee_logo__DA291C_W.png?w=100" style="background-color: rgb(218, 41, 28);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Mui Kee
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  FREE White Pepper Fried Chicken (worth S$12)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="M1 " class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3ARTU0CLJNysrBAiGO4JyJ/80d8fdb22af173a809ac5a35acd51dda/1500x750_trustbank_fbb_0623_JULY_PROMO.png?w=584"/>
+  <img alt="M1 logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/o9PTtZTGqTvrtkVDypGxn/1b970eb7c36676b0f28d6443e0a0c0f6/M1_logo_F5F5F5_B.png?w=100" style="background-color: rgb(245, 245, 245);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  M1
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Amazing fibre broadband deals from $36.50/mth
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="SaladStop! banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3Zq9QIBM0QroYLTg3jf3B9/eef38b3bd52a84efd1e3290f8500d8d1/SaladStop_lifestyle_1500_x_750px.jpg?w=584"/>
+  <img alt="SaladStop!" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6AOkwswBqQ9cyWNFIWoBu8/61328f96486bb44165b3ba67b0c992c6/ss.png?w=100" style="background-color: rgb(13, 69, 32);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  SaladStop!
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="New Ubin Seafood Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3P4ztrYl4Rm8Zw1gfVOr4z/05d6fa8e2b1de55fc58a1573fd6aba87/86xxx-eDM__DEC__6_images_1500_x_700px5.jpg?w=584"/>
+  <img alt="New Ubin Seafood logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1FLL2pXoJqCOOxoTQzRxAc/c2fd2124c99d77a185b10bd54948a6a6/New_Ubin_Seafood_Logo_Rectangle_Black_Orange_Generic.png?w=100" style="background-color: rgb(253, 247, 247);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  New Ubin Seafood
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Free 500g LIVE Tiger Prawns
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Old town banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/79uT5Yyruqc1u5gNnJITIA/d608dc18bae80c5d3837c6d8a4eb33f8/trust_app.png?w=584"/>
+  <img alt="OldTown White Coffee logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1upiNdg7KYQ47cR0B9v4bQ/812c0054762e83487bce2b122ffaf1e0/OTARTISAN_OFFPACK_ROUNDEL_RGB_L.png?w=100" style="background-color: rgb(255, 199, 44);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  OldTown White Coffee
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off your next bill at OldTown White Coffee
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Outdoor School Singapore Oct Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2zhR0bphJ4msCyspT14325/f6a12650577d712017da989ddae0cd65/1000029637.jpg?w=584"/>
+  <img alt="Outdoor School Singapore" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2Vp7FQ12OMCUd4qyDfdKEJ/a05f056ca193175155453f2e94494eb9/OSS_white_800x800.png?w=100" style="background-color: rgb(84, 191, 102);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Outdoor School Singapore
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  20% off
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Poke Theory Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/2rhnquw1MXdSWcNLuHiooH/6b54820fd89ea511db27f8738f1087ac/Poke_Theory_Image_Format_1_For_app_web_EDM.png?w=584"/>
+  <img alt="Poke Theory Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4q0uqW3ArNkGC8MU3PNtw2/70e5bcbaba144acf02671a94113b3fa8/Poke_Theory_Logo_Format_1__app_web_.png?w=100" style="background-color: rgb(255, 203, 31);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Poke Theory
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  20% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="pizza hut banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6rp2FxInEEqpIrZCO2Dasf/8f2fd2c5aacb0ccdd74164d19134f473/Banner.jpg?w=584"/>
+  <img alt="Pizza Hut logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/56m81pwMr0YpSGQTinmFcQ/c8b52b63b700007325fd0af3007122e2/PH_3.W_Resize__1_.png?w=100" style="background-color: rgb(200, 16, 46);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Pizza Hut
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 Personal Takeaway Pocket Pleaser @ $0.99
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Pezzo Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/72pmZBL4u5AEaKi448L3iJ/8fac6d9e11e8fafae0b8d52589368909/PZ_1500_x_750.jpg?w=584"/>
+  <img alt="Pezzo logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/3VDQ3bAYX4l1CXVEvxjVn1/3f254d0e6643c9c0e64c08d0025b77fd/Pezzo_V2.png?w=100" style="background-color: rgb(237, 49, 73);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Pezzo
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  2 FREE Classic slices (U.P. S$10.60)
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Ryde Dec 2023 Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5FIhB1RbwO6Roy9jlomEx/3944500d97609b0590db098248fe942e/Ryde_lifestyle_image__Dec___1_.png?w=584"/>
+  <img alt="Ryde logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6QyGI93xOjhmoAYyupN2rn/1988119fdf32308d86a27e9aedbbfff9/Ryde_logo_E83864_W.png?w=100" style="background-color: rgb(232, 56, 100);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Ryde
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Free 1 x S$5 RydeCoins after 8th trip
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Royce Dental banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/K1tqacOOWjrAZTfbfZvxN/a10387ac9e25e7bbae16a2cfc0e88c4a/Royce_-_Trust.jpg?w=584"/>
+  <img alt="Royce Dental logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6c6yiMm7HPG1nMIGIErGtt/d0af14b7bcd6512aa2833005102e3914/Logo_Royce_Dental.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Royce Dental
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $950 in-clinic Teeth Whitening
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Royce Dental banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/K1tqacOOWjrAZTfbfZvxN/a10387ac9e25e7bbae16a2cfc0e88c4a/Royce_-_Trust.jpg?w=584"/>
+  <img alt="Royce Dental logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6c6yiMm7HPG1nMIGIErGtt/d0af14b7bcd6512aa2833005102e3914/Logo_Royce_Dental.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Royce Dental
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $400 Take-Home Teeth Whitening Kit
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Royce Dental banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/K1tqacOOWjrAZTfbfZvxN/a10387ac9e25e7bbae16a2cfc0e88c4a/Royce_-_Trust.jpg?w=584"/>
+  <img alt="Royce Dental logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/6c6yiMm7HPG1nMIGIErGtt/d0af14b7bcd6512aa2833005102e3914/Logo_Royce_Dental.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Royce Dental
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $100 Basic Dental Treatment
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Royal Albatross Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7tgfry5s61aXIYAdKOJd9i/8127972eb0871bcee79719b0067f5d5f/campaign_image-format1.jpg?w=584"/>
+  <img alt="Royal Albatross logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5hSCWt91gwZlI7KUDyLK3O/a3124f2d5539ea9a36c3bb5aefd036a8/RoyalAlbatross_logo_FFFFFF_B.png?w=100" style="background-color: rgb(255, 255, 255);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Royal Albatross
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  15% off Dining Cruise
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="ShopBack" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7eTTFJr4STYmgfptzLIeDe/492ec0bf405a62a4a22a4783accb89b7/ShopBack_banner.png?w=584"/>
+  <img alt="ShopBack" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4dZOIangqyY2xiJq8r5yyd/fc82eb370bfd7980a6e97b3be7c50b1b/Shopback_logo_000000_W.png?w=100" style="background-color: rgb(0, 0, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  ShopBack
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Up to $20 bonus cashback on ShopBack Pay
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Senoko July" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7FxSFxphXOOVlPDCh1UcJR/4faaadadc16699c185b82b2591214e4a/Senoko_July_Banner.png?w=584"/>
+  <img alt="Senoko logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4c8pN2aJWaQmzsuLeKITxK/aa21fc31dde5f832cbb6df58e4108f75/Senoko_logo_2FB39E_W.png?w=100" style="background-color: rgb(47, 179, 158);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Senoko Energy
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Enjoy up to $140 bill rebate
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Shure banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3OIHL6mUyUZ4Z6sZw2X5X3/09a58a9e58cf8568341ab97a366131ba/Shure_Banner.jpeg?w=584"/>
+  <img alt="Shure logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2s1xLejNIMOiHm3KVrltip/97172200676dd23fd3f93fee82491e56/Shure_logo_B2FF33_B.png?w=100" style="background-color: rgb(178, 255, 51);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Shure
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off storewide
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Saveur Thai banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5xiWSdzMS4YJT4PlXzKN3Q/7456ad4398b617e128cc64fa2d63e24d/Sep_2023_Banner.jfif?w=584"/>
+  <img alt="Saveur Thai logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1hNLU0ndzkwx5n6yBJO49w/5a88b25fb577cb87bde68149ab2012de/SaveurThai_logo_292929_W.png?w=100" style="background-color: rgb(41, 41, 41);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Saveur Thai®
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off Saveur Thai®
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="SG Wine Mart banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/43mdiZMR8mSwR02adzr1Uu/80fe71f3ccf0c8d6e4eb6d030f4ee92a/Banner__1_.png?w=584"/>
+  <img alt="SG Wine Mart" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4Fyvjvsm7pxRVUKLtWDAjh/751a45bb2d32a68785aa4f142f2aa991/SGWineMart_logo_FFEDE2_B.png?w=100" style="background-color: rgb(255, 237, 226);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  SG Wine Mart
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$8 off your cart
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Shatec dine-in" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/7xtc9DnUBFLEjvhhQK6kN6/970fc560d9669bcbb7604e518937e0cc/The-Sapling-x-TRUST-Dine-In-1500x750.jpg?w=584"/>
+  <img alt="The Sapling Restaurant" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5JBZg11z0Pp8uckYPQcLic/b56cfa35c96b2152d166e8d1672d4624/Sapling_logo_F9F9F9_B.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  The Sapling Restaurant
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off Dine-in
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Shatec cake" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3KlRU6CIxgoIhFqCfemDds/9a354a645de99dae0a8a22796fbc89ce/The-Sapling-x-TRUST-Whole-Cake-1500x750.jpg?w=584"/>
+  <img alt="The Sapling Restaurant" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5JBZg11z0Pp8uckYPQcLic/b56cfa35c96b2152d166e8d1672d4624/Sapling_logo_F9F9F9_B.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  The Sapling Restaurant
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off whole cake orders
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Shatec Peranakan" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3KtsgENXhFXsuqmEITBvv8/3614f75182d41897e0b936c0ed591470/SHATEC-x-TRUST--Peranakan-Kitchen-Secrets-Cooking-Tok-Panjangs-Finest.jpg?w=584"/>
+  <img alt="Shatec Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7dFJnBiGYHNOk9PFKBxgtF/3b59d9e5ac6bab3f77c79a773b5a06eb/SHATEC_logo_F9F9F9_B.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  SHATEC
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off Peranakan Kitchen Secrets Cooking Course
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Shatec Plant-Based" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5o7sp1sFY9jII8X7Cob9lq/4ca46f67eaef2d12afe685534dee0f54/SHATEC-x-TRUST-Plant-Based-Yummylicious-Goodness.jpg?w=584"/>
+  <img alt="Shatec Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7dFJnBiGYHNOk9PFKBxgtF/3b59d9e5ac6bab3f77c79a773b5a06eb/SHATEC_logo_F9F9F9_B.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  SHATEC
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off Plant-Based Cooking Course
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Sakae Sushi" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/72OmSEsHIdmLu8M5wb1eWM/f8a092a37414749fecfb3c0015093a92/Sakae_Sushi.jpg?w=584"/>
+  <img alt="Sakae Sushi Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7QW84zde5shkj0LsL9u0v/f0c3f6565d9310fc6fef4c4a586dea9a/SakaeSushi_logo_F0FBF7_B.png?w=100" style="background-color: rgb(240, 251, 247);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Sakae Sushi
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Staytion Spaces Banner Image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/jsoB6BoNDFyTdi1MQHaa6/fc4da3fc4638034f465a3322ed9ecc59/Promo_2_Trust_1500_x_750_px.jpg?w=584"/>
+  <img alt="Staytion Spaces logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4cXYzZy1BkEnyqDg2ZZC02/2f575eb529f0e6f0fef0d502f1eac340/StaytionSpaces_logo_2E3439_W.png?w=100" style="background-color: rgb(18, 71, 52);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Staytion Spaces
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Free 1 month access
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="TADA airport promo" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/T5cplf4j6mKov4IGlPI7U/ad132816e522e880de50eb3f30e6b24d/TADA_airport_promo.jpg?w=584"/>
+  <img alt="TADA logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4XbZsSrApVKv3tStk77hvO/3093ae8ab4ecf81944e2c1c856669792/Tada_logo_F2F3F5_B.png?w=100" style="background-color: rgb(233, 185, 31);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  TADA
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$5 off your TADA ride to airport
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="TADA banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5IsNvAsy2F6aAI8Mwaln5A/8f0a966b0e1619a6c6660c57720e8d43/Tada_banner.png?w=584"/>
+  <img alt="TADA logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1bApDEMnMIklmADYnSlUp9/5abfe5d0b1f4c890b2d5d1dbba6941d0/Tada_logo_F2F3F5_B.png?w=100" style="background-color: rgb(233, 185, 31);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  TADA
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$4 off your sixth TADA ride
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="TADA banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5IsNvAsy2F6aAI8Mwaln5A/8f0a966b0e1619a6c6660c57720e8d43/Tada_banner.png?w=584"/>
+  <img alt="TADA logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/1bApDEMnMIklmADYnSlUp9/5abfe5d0b1f4c890b2d5d1dbba6941d0/Tada_logo_F2F3F5_B.png?w=100" style="background-color: rgb(233, 185, 31);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  TADA
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $3 off your first TADA ride
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Tribecar banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/uwCpliMznnT37KLWMmFoX/1ba912ca48015a7143d002c1fd8ee884/banner.jpg?w=584"/>
+  <img alt="Tribecar Logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7jGaQnGEkDwuy3ptDHytLr/4d0c4ca54775a31c05d77c4f127bd4b5/Tribe_car_logo.png?w=100" style="background-color: rgb(13, 122, 191);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Tribecar
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$10 off your next Tribecar booking
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="The Alley Oct Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/750eM5o8dMiDYTqQez533G/dda782ce6f1f223f3df49b5faf8a8063/Oct_banner.jfif?w=584"/>
+  <img alt="The Alley" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5Qv8oHASariycGK03fJjpC/9e392e9973082749fc19be1b2c2e90a2/Alley_F2F2F2_B.png?w=100" style="background-color: rgb(212, 200, 160);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  The Alley
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  5% off all drinks
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Tanamera Coffee Cold Brew Coffee" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5HHrVVOqkEYUsJfnKwSot5/f0cfab1b98e9dc0f1f21a2f2471f8a6b/Tanamera_2_banner.jpg?w=584"/>
+  <img alt="Tanamera Coffee" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2jjUxwcHUAJblcpjIw5DYg/88f69ab7278c7d5195f5929bf7394bb5/Tanamera_logo_E4002B_W.png?w=100" style="background-color: rgb(228, 0, 43);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Tanamera Coffee
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  1 free Cold Brew e-voucher
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Tanamera Coffee 10% banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/6d2AxDlj5bBbMwR2wSqKvv/b323dd7bf0fd3a45118da0220f00fc79/Tanamera_Banner.png?w=584"/>
+  <img alt="Tanamera Coffee" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/2jjUxwcHUAJblcpjIw5DYg/88f69ab7278c7d5195f5929bf7394bb5/Tanamera_logo_E4002B_W.png?w=100" style="background-color: rgb(228, 0, 43);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Tanamera Coffee
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Tuk Tuk Cha New banner image" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3zECEnK7D3ARDeARxfTb44/f2297b04c2ab4391cd0702ff763b504b/Trust__1500___750_px___1_.jpg?w=584"/>
+  <img alt="Tuk tuk cha logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/675oHwxUaWsG1FgZMHqlHy/d761f768a19fa592ed78943ab3dcc1e1/TukTukCha_logo_F2F8F6_B.png?w=100" style="background-color: rgb(242, 248, 246);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Tuk Tuk Cha
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  S$2 off next bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="UPlay Yacht" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3uaygvLRWK8NwsSztlO4wQ/c259b1a03f9a7d50a874e105c7b48450/Yacht_1500x750px.png?w=584"/>
+  <img alt="UPlay logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5GZZ80G2SDJoywLlChAVB6/26a134921574a12545f0fedcd42e9ed0/logo_uplay.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  UPlay
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $150 Off Private Yacht Experience
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="UPlay Sound Bath Banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/5VPL1aKhdxCkERD55QnFSf/a89a84653dd0bcf64f036865aa2cd3e1/soundbath1.png?w=584"/>
+  <img alt="UPlay logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5GZZ80G2SDJoywLlChAVB6/26a134921574a12545f0fedcd42e9ed0/logo_uplay.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  UPlay
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Save on Sound Bath Therapy Session for 2 People
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="UPlay golf banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3r2qVAweIcw5lnQ0b8f8pY/03b5b41cc2a05ba9d2ba83a89ae1a039/MGK_Golf_Deal_Trust_App_1500x750px.jpg?w=584"/>
+  <img alt="UPlay logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/5GZZ80G2SDJoywLlChAVB6/26a134921574a12545f0fedcd42e9ed0/logo_uplay.png?w=100" style="background-color: rgb(249, 249, 249);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  UPlay
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  Save on 10 golf lessons for beginners
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="WE cinemas banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/79jOjEvyq1T94NZHTEq9Md/716fdfa61516ced9b5656de8bccc5bc4/WeCinema_banner.png?w=584"/>
+  <img alt="WE cinemas logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/4STP8e8naqbZZJGRGahFbe/87fd94603c5c2616d7a7c1725048f828/WeCinema_logo_000000_W.png?w=100" style="background-color: rgb(0, 0, 0);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  WE Cinemas
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $1 off WE Cinemas tickets
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="Wooshi banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/DTIPzjyg0iCxZYZO0PhVP/e15fcedb5b55a7d0d6698016b5329497/Wooshi_lifestyle_1500_x_750px.jpg?w=584"/>
+  <img alt="Wooshi logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/73rbG3UL0I0asQ7MvKfNN7/4c927cb8720fe1aa79a04853edabeadc/wooshi.png?w=100" style="background-color: rgb(255, 76, 41);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  Wooshi
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  10% off total bill
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="WhyQ banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3xwp0DzdY43bSsM6bRrvSC/afadb9569f84a267f4809f2a418e1fb0/WhyQ_banner.png?w=584"/>
+  <img alt="WhyQ logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7bBlC4t4Fbuqr17I7nvtvl/d557c7a66cb44e3a6381c0f65d723ee1/WhyQ_Logo_095059_W.png?w=100" style="background-color: rgb(9, 80, 89);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  WhyQ
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  12% off all WhyQ orders
+ </p>
+</div>
+<div class="mt-2 inline-block hover:cursor-pointer">
+ <div class="relative pb-1/2">
+  <img alt="WhyQ banner" class="absolute h-full w-full rounded object-cover object-center" src="https://images.ctfassets.net/50mbax05vv1x/3xwp0DzdY43bSsM6bRrvSC/afadb9569f84a267f4809f2a418e1fb0/WhyQ_banner.png?w=584"/>
+  <img alt="WhyQ logo" class="absolute bottom-2 left-2 h-11 rounded object-cover px-3 py-2" src="https://images.ctfassets.net/50mbax05vv1x/7bBlC4t4Fbuqr17I7nvtvl/d557c7a66cb44e3a6381c0f65d723ee1/WhyQ_Logo_095059_W.png?w=100" style="background-color: rgb(9, 80, 89);"/>
+ </div>
+ <h2 class="mt-3 font-GTMedium text-lg font-medium tracking-tight">
+  WhyQ
+ </h2>
+ <p class="mt-1 truncate text-ellipsis font-GTRegular text-[14px] font-normal">
+  $4 off first two WhyQ orders
+ </p>
+</div>
