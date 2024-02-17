@@ -10,7 +10,7 @@ LinkScrap scraps data from [Trust Partner Deals Website]("https://trustbank.sg/p
 
 ---
 ### Here's an image to illustrate the above: 
-![image about a promo message sent by the bot](https://cdn.discordapp.com/attachments/982267177509986315/1200242467375689758/image.png?ex=65c577e7&is=65b302e7&hm=0c1a600b505a15d51c62cba3eba56f73a01c7bf22c7c7fea94cba06dbdc31afc&)
+![image about a promo message sent by the bot](https://cdn.discordapp.com/attachments/982267177509986315/1208438451704430612/image.png?ex=65e34902&is=65d0d402&hm=c45de950c1279c0af98e334667fe2f591a3d278f19a61c4242e8b43dd1dfc654&)
 ---
 
 Currently this script only scraps the entirety of the [Trust]("https://trustbank.sg/partner-offers/deals/") website and process these text in a very scuffed manner.
